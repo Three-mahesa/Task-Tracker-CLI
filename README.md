@@ -1,5 +1,5 @@
 ## Project URL
-https://github.com/Three-mahesa/Task-Tracker-CLI.git
+https://github.com/Three-mahesa/Task-Tracker-CLI
 
 # Task Tracker CLI 📝
 

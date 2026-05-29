@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Beli susu",
+    "status": "done",
+    "createdAt": "2026-05-29T09:14:07.018Z",
+    "updatedAt": "2026-05-29T09:14:58.952Z"
+  },
+  {
+    "id": 2,
+    "description": "Belajar javascript",
+    "status": "todo",
+    "createdAt": "2026-05-29T09:14:17.297Z",
+    "updatedAt": "2026-05-29T09:32:29.159Z"
+  },
+  {
+    "id": 3,
+    "description": "Olahraga",
+    "status": "in-progress",
+    "createdAt": "2026-05-29T09:14:35.657Z",
+    "updatedAt": "2026-05-29T09:31:57.958Z"
+  }
+]
